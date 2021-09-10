@@ -1,2 +1,2 @@
 FROM vm/ubuntu:18.04
-echo hello
+RUN echo hello
